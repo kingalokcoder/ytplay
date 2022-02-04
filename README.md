@@ -1,8 +1,11 @@
 # ytplay
 
+I am learning how to do open source contribution
+
 A simple bash script to play YouTube videos from terminal.
 
 Supports:
+
 - Music only playback
 - List of search results to select from
 - Play on infinite loop
@@ -10,11 +13,11 @@ Supports:
 
 ## Screenshots
 
-|With video|Without video|
-|----|----|
-|![Screenshot with video](./screenshots/with-video.png)|![Screenshot without video](./screenshots/music-only.png)|
+| With video                                             | Without video                                             |
+| ------------------------------------------------------ | --------------------------------------------------------- |
+| ![Screenshot with video](./screenshots/with-video.png) | ![Screenshot without video](./screenshots/music-only.png) |
 
-*Lyrics on the right shown using [lyrics-in-terminal](https://github.com/Jugran/lyrics-in-terminal).*
+_Lyrics on the right shown using [lyrics-in-terminal](https://github.com/Jugran/lyrics-in-terminal)._
 
 ## Requirements
 
